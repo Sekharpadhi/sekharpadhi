@@ -8,12 +8,15 @@
 
 <br clear="both">
 
-<div align="right">
+<div >
   <a href="https://www.linkedin.com/in/sekharpadhi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="sekharpadhi94@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <h1>Image-Manipulation-with-NumPy-and-Matplotlib-Project - 
+  <a href="https://github.com/Sekharpadhi/Image-Manipulation-with-NumPy-and-Matplotlib-Project" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/803277869/bd1e8506-19a2-4793-ab0f-1cbf8430cbde" height="25" alt="Numpy Project"  />
+    </h1> 
+ 
   </a>
 </div>
 
@@ -29,7 +32,7 @@
 
 ###
 
-<h4 align="left">👩‍💻  About Me <br>Name -Sekhar Chandra Padhi<br>State - Odisha<br>City - Balangir</h4>
+<h4 align="left">👩‍💻  About Me <br>Name -Sekhar Chandra Padhi<br>State - Odisha<br>City - Balangir<br> Mail - sekharpadhi94@gmail.com</h4>
 
 ###
 
