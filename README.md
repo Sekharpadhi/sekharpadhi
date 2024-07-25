@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="left">- Aspiring Data Scientist.<br>- 📚 I'm currently learning  Visualization<br>- ⚡ In my free time I  make my self happy....</h1>
+<h1 align="left">- Aspiring Data Scientist.<br>- 📚 I'm currently learning  Visualization.<br>- ⚡ In my free time I  make my self happy....</h1>
 
 ###
 
@@ -60,6 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="Matplotlib logo"  />
+  
 </div>
 
 ###
