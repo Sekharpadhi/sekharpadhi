@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="235" src="https://img.freepik.com/free-vector/artificial-intelligence-linkedin-banner-template_23-2150360356.jpg"  />
+  <img height="235" width="900" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52M2ViNXFlM2ltd3NwY2tyanNieHV3NnV6Y2dsZDhiOWQyZDhoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iUZ7oLMIDLaJf1HIeQ/giphy.webp"  />
 </div>
 
 ###
