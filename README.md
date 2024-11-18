@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="left">- Aspiring Data Scientist.<br>- 📚 I'm currently learning  Visualization.<br>- ⚡ In my free time I  make my self happy....</h1>
+<h1 align="left">- Aspiring Data Scientist.<br>- 📚 I'm currently learning  DEEP LEARNING.<br>- ⚡ In my free time I  make my self happy....</h1>
 
 ###
 
