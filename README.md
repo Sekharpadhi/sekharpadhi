@@ -19,9 +19,9 @@
  
   </a>
     </a>
-  <h1>Image-Manipulation-with-NumPy-and-Matplotlib-Project - 
+  <h1>Capstone-project---Netflix-Recommendation-Engine - 
   <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
-    <img src="https://repository-images.githubusercontent.com/803277869/bd1e8506-19a2-4793-ab0f-1cbf8430cbde" height="25" alt="Numpy Project"  />
+    <img src="https://user-images.githubusercontent.com/14100652/71332484-34cd3680-24eb-11ea-91de-fa7001a08ef8.png" height="25" alt="Netflix Project"  />
     </h1> 
  
   </a>
