@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/sekharpadhi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <h1>Image-Manipulation-with-NumPy-and-Matplotlib-Project - 
+  <h1>Image-Manipulation-with-NumPy-Project - 
   <a href="https://github.com/Sekharpadhi/Image-Manipulation-with-NumPy-and-Matplotlib-Project" target="_blank">
     <img src="https://repository-images.githubusercontent.com/803277869/bd1e8506-19a2-4793-ab0f-1cbf8430cbde" height="25" alt="Numpy Project"  />
     </h1> 
