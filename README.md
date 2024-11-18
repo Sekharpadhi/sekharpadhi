@@ -18,6 +18,13 @@
     </h1> 
  
   </a>
+    </a>
+  <h1>Image-Manipulation-with-NumPy-and-Matplotlib-Project - 
+  <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/803277869/bd1e8506-19a2-4793-ab0f-1cbf8430cbde" height="25" alt="Numpy Project"  />
+    </h1> 
+ 
+  </a>
 </div>
 
 ###
