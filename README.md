@@ -28,7 +28,7 @@
     </h1> 
  
   </a>
-  <h1>Capstone Project- Walmart-prediction - 
+  <h1>Capstone Project- Walmart Retail Data Analysis - 
   <a href="https://github.com/Sekharpadhi/Walmart-sales-Prediction" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/391477257-6fcb1dbc-5830-45f7-9165-56aea73054e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzA1MDYsIm5iZiI6MTczMzEzMDIwNiwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc3MjU3LTZmY2IxZGJjLTU4MzAtNDVmNy05MTY1LTU2YWVhNzMwNTRlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQwOTAzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTI3MDYyNTMwZTAwNzMwMTlkMGEwZjE4MzY2ZmUyMTY5NTZkMzFkZDZhOGNjMzk0ZmM2Y2I4MDMxNjU4YzAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LiaD6jzdarYb-n1fOPXsrk5mPI64FSe0S1oSBwGDdlY" height="25" alt="walmart"  />
     </h1> 
