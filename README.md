@@ -46,7 +46,25 @@
 
 ###
 
-<h1 align="left">- Aspiring Data Scientist.<br>- 📚 I'm currently learning  DEEP LEARNING.<br>- ⚡ In my free time I  make my self happy....</h1>
+<h1 align="left">- Hello! I am a dedicated student currently diving deep into the fascinating world of data science. My passion lies in uncovering insights from data and using these discoveries to solve real-world problems.
+
+Education
+I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python, R, machine learning algorithms, and data visualization.
+
+Skills and Interests
+Programming: Proficient in Python and R.
+
+Data Analysis: Skilled in data cleaning, manipulation, and analysis.
+
+Machine Learning: Learning and applying various machine learning models.
+
+Visualization: Creating insightful visualizations using tools like Matplotlib and Seaborn.
+
+Interests: Always eager to explore new datasets, participate in data science competitions, and collaborate on innovative projects.
+
+Goals
+My goal is to become a proficient data scientist who can contribute to impactful projects and drive data-driven decision making in various industries. I am excited about the future and the endless possibilities that data science offers.
+</h1>
 
 ###
 
