@@ -46,10 +46,10 @@
 
 ###
 
-<h4 align="left">- Hello! I am a dedicated student currently diving deep into the fascinating world of data science. My passion lies in uncovering insights from data and using these discoveries to solve real-world problems.
+<h4 align="left">
 
 Education
-I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python, R, machine learning algorithms, and data visualization.
+I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python, machine learning algorithms, and data visualization.
 
 Skills and Interests
 Programming: Proficient in Python and R.
