@@ -30,7 +30,7 @@
   </a>
   <h1>Capstone Project- Walmart-prediction - 
   <a href="https://github.com/Sekharpadhi/Walmart-sales-Prediction" target="_blank">
-    <img src="https://user-images.githubusercontent.com/14100652/71332484-34cd3680-24eb-11ea-91de-fa7001a08ef8.png" height="25" alt="Netflix Project"  />
+    <img src="![images](https://github.com/user-attachments/assets/3ceb63cc-9d2c-4115-afc4-e1811d76e041)" height="25" alt="walmart"  />
     </h1> 
  
   </a>
