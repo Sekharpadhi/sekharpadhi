@@ -24,7 +24,7 @@
     </a>
   <h1>Capstone-project---Netflix-Recommendation-Engine - 
   <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
-    <img src="https://github.com/Sekharpadhi/sekharpadhi/issues/1#issue-2711123709" height="25" alt="Netflix Project"  />
+    <img src="https://private-user-images.githubusercontent.com/138234191/391476208-5bbcdc8a-286e-45f4-9555-23f64f94d909.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzAzNzEsIm5iZiI6MTczMzEzMDA3MSwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc2MjA4LTViYmNkYzhhLTI4NmUtNDVmNC05NTU1LTIzZjY0Zjk0ZDkwOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQwOTAxMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzVlZmVjMWVhZTBiZmVjYjY1NjE0NTcxNGFlNjQxMDI4MmYwNmVkNDQxMzZlM2M2MTNmYTc2ZDA4ZmU0NzM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._8cppQzlcM-qdVtaEKGd1oGRJHU3K7aWNoQ_TE-zAOg" height="25" alt="Netflix Project"  />
     </h1> 
  
   </a>
