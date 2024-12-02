@@ -47,6 +47,7 @@
 ###
 
 <h4 align="left">
+Hello! I am a dedicated student currently diving deep into the fascinating world of data science. My passion lies in uncovering insights from data and using these discoveries to solve real-world problems.
 
 Education
 I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python,SQL, machine learning algorithms, and data visualization.
