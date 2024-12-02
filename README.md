@@ -24,6 +24,12 @@
     </a>
   <h1>Capstone-project---Netflix-Recommendation-Engine - 
   <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
+    <img src="https://github.com/Sekharpadhi/Walmart-sales-Prediction/issues/1#issue-2711103015" height="25" alt="Netflix Project"  />
+    </h1> 
+ 
+  </a>
+  <h1>Capstone Project- Walmart-prediction - 
+  <a href="https://github.com/Sekharpadhi/Walmart-sales-Prediction" target="_blank">
     <img src="https://user-images.githubusercontent.com/14100652/71332484-34cd3680-24eb-11ea-91de-fa7001a08ef8.png" height="25" alt="Netflix Project"  />
     </h1> 
  
