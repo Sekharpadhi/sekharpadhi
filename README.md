@@ -44,7 +44,6 @@
 
 <br clear="both">
 
-<h1 align="center">🙏 Namaste 🙏</h1>
 
 ###
 
