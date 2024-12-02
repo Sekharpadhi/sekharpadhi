@@ -49,10 +49,10 @@
 <h4 align="left">
 
 Education
-I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python, machine learning algorithms, and data visualization.
+I am actively pursuing my studies in data science, where I am learning various techniques and tools such as Python,SQL, machine learning algorithms, and data visualization.
 
 Skills and Interests
-Programming: Proficient in Python and R.
+Programming: Proficient in Python and SQL.
 
 Data Analysis: Skilled in data cleaning, manipulation, and analysis.
 
