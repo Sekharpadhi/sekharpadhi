@@ -15,23 +15,23 @@
   <h1> Projects---Click on the images to view the projects.</h1>
 </a>
   </a>
-  <h1>Image-Manipulation-with-NumPy-Project - 
+  <h2>Image-Manipulation-with-NumPy-Project - 
   <a href="https://github.com/Sekharpadhi/Image-Manipulation-with-NumPy-and-Matplotlib-Project" target="_blank">
     <img src="https://repository-images.githubusercontent.com/803277869/bd1e8506-19a2-4793-ab0f-1cbf8430cbde" height="25" alt="Numpy Project"  />
-    </h1> 
+    </h2> 
  
   </a>
     </a>
-  <h1>Capstone-project---Netflix-Recommendation-Engine - 
+  <h2>Capstone-project---Netflix-Recommendation-Engine - 
   <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/391476208-5bbcdc8a-286e-45f4-9555-23f64f94d909.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzAzNzEsIm5iZiI6MTczMzEzMDA3MSwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc2MjA4LTViYmNkYzhhLTI4NmUtNDVmNC05NTU1LTIzZjY0Zjk0ZDkwOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQwOTAxMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYzVlZmVjMWVhZTBiZmVjYjY1NjE0NTcxNGFlNjQxMDI4MmYwNmVkNDQxMzZlM2M2MTNmYTc2ZDA4ZmU0NzM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._8cppQzlcM-qdVtaEKGd1oGRJHU3K7aWNoQ_TE-zAOg" height="25" alt="Netflix Project"  />
-    </h1> 
+    </h2> 
  
   </a>
-  <h1>Capstone Project- Walmart Retail Data Analysis - 
+  <h2>Capstone Project- Walmart Retail Data Analysis - 
   <a href="https://github.com/Sekharpadhi/Walmart-sales-Prediction" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/391477257-6fcb1dbc-5830-45f7-9165-56aea73054e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzA1MDYsIm5iZiI6MTczMzEzMDIwNiwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc3MjU3LTZmY2IxZGJjLTU4MzAtNDVmNy05MTY1LTU2YWVhNzMwNTRlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQwOTAzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMTI3MDYyNTMwZTAwNzMwMTlkMGEwZjE4MzY2ZmUyMTY5NTZkMzFkZDZhOGNjMzk0ZmM2Y2I4MDMxNjU4YzAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LiaD6jzdarYb-n1fOPXsrk5mPI64FSe0S1oSBwGDdlY" height="25" alt="walmart"  />
-    </h1> 
+    </h2> 
  
   </a>
 </div>
