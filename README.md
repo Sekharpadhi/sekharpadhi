@@ -24,7 +24,7 @@
     </a>
   <h2>Capstone-project---Netflix-Recommendation-Engine - 
   <a href="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine" target="_blank">
-    <img src="https://github.com/Sekharpadhi/Capstone-project---Netflix-Recommendation-Engine/issues/1" height="25" alt="Netflix Project"  />
+    <img src="![cropped-netflix-logo-netflix-icon-free-free-vector](https://github.com/user-attachments/assets/a100b9c9-9bda-4ca1-bec7-7b4b0cd91e1a)" height="25" alt="Netflix Project"  />
     </h2> 
  
   </a>
