@@ -35,7 +35,7 @@
 
   </a>
   <h2> Project- Jomato Database Management and Analysis - 
-  <a href="https://github.com/Sekharpadhi/jomato-Data-analysis-" target="_blank">
+  <a href="https://github.com/Sekharpadhi/jomato-Data-analysis" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/395668646-c143e767-87a6-475d-81b4-0a5404b422b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxMTY2MzAsIm5iZiI6MTczNDExNjMzMCwicGF0aCI6Ii8xMzgyMzQxOTEvMzk1NjY4NjQ2LWMxNDNlNzY3LTg3YTYtNDc1ZC04MWI0LTBhNTQwNGI0MjJiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxM1QxODU4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NWQ5NzI1NWRlMTUzMzlmYzk0OGI1OTZkYzFhNmU3YTk1NTRkNDQ1OWNmMjUwNmU3Yzg0NmEwMTEzYWU1NDYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.91f8bSrhs3XUviDg7-_FGptyjycN8Y2wyyfquKsnAqU" height="25" alt="walmart"  />
     </h2> 
  
