@@ -32,6 +32,12 @@
   <a href="https://github.com/Sekharpadhi/Walmart-Analysis-Project-" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/391474017-9db73e94-fe82-4296-9f41-221d5b04e904.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwMTA4NDgsIm5iZiI6MTczNDAxMDU0OCwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc0MDE3LTlkYjczZTk0LWZlODItNDI5Ni05ZjQxLTIyMWQ1YjA0ZTkwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxMlQxMzM1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTQ3NTllOGU5MGVlMmYwNmZiMWUwMDc4YTU3MzJmYWU4NzU0NzA2ODFmZjZlYWQyMmZlYjJkMzQ0NDhhYjI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1FC3sOtGpDxjf-Sp1AE1AdWvnBAdcM_9kAHb7EUC2b0" height="25" alt="walmart"  />
     </h2> 
+
+  </a>
+  <h2>Capstone Project- Walmart Retail Data Analysis - 
+  <a href="https://github.com/Sekharpadhi/Walmart-Analysis-Project-" target="_blank">
+    <img src="https://private-user-images.githubusercontent.com/138234191/391474017-9db73e94-fe82-4296-9f41-221d5b04e904.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwMTA4NDgsIm5iZiI6MTczNDAxMDU0OCwicGF0aCI6Ii8xMzgyMzQxOTEvMzkxNDc0MDE3LTlkYjczZTk0LWZlODItNDI5Ni05ZjQxLTIyMWQ1YjA0ZTkwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxMlQxMzM1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNTQ3NTllOGU5MGVlMmYwNmZiMWUwMDc4YTU3MzJmYWU4NzU0NzA2ODFmZjZlYWQyMmZlYjJkMzQ0NDhhYjI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1FC3sOtGpDxjf-Sp1AE1AdWvnBAdcM_9kAHb7EUC2b0" height="25" alt="walmart"  />
+    </h2> 
  
   </a>
 </div>
