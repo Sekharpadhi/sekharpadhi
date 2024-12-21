@@ -35,13 +35,13 @@
 
   </a>
   <h2> Project- Jomato Database Management and Analysis - 
-  <a href="https://github.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-" target="_blank">
+  <a href="https://github.com/Sekharpadhi/jomato-Data-analysis" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/397907445-f24dfa43-f7fe-474e-9410-c9cac57e98e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NjAyMDcsIm5iZiI6MTczNDc1OTkwNywicGF0aCI6Ii8xMzgyMzQxOTEvMzk3OTA3NDQ1LWYyNGRmYTQzLWY3ZmUtNDc0ZS05NDEwLWM5Y2FjNTdlOThlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQwNTQ1MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OWJkZGU0ZTI2ZmQyMzk2NmQ1OWIwNjhiZWE2MjBmNmIwNzFlYWI2ZmY4YTc5NjFmYTE0YWY0ZmZjNzI5Njg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Y7bDGkGgGUG8eQvqcbsndxVSiFjTYSorw1HuATA76h4" height="25" alt="walmart"  />
     </h2> 
  
   </a>
   <h2> Project- Analyzing the trends of covid-19  - 
-  <a href="https://github.com/Sekharpadhi/jomato-Data-analysis" target="_blank">
+  <a href="https://github.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/397907600-6aee4b02-61de-4834-8a68-3069e2ec6b20.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NjA0NDksIm5iZiI6MTczNDc2MDE0OSwicGF0aCI6Ii8xMzgyMzQxOTEvMzk3OTA3NjAwLTZhZWU0YjAyLTYxZGUtNDgzNC04YTY4LTMwNjllMmVjNmIyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMVQwNTQ5MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzJjY2ZkOTM2MmEzNzM5YjhkYjQyOTQzN2Q3OGQxMTk2YTIyZDMzNTNjYTE5YmYxMzVkOGRhZDMyMjNlNzY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YodoGkDICRnfJmKIuKzJpQD3Be9sWM9p8WIiNxC6uvw" height="30" alt="covid-19"  />
     </h2> 
     
