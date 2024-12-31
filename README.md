@@ -30,7 +30,7 @@
   </a>
   <h2>Capstone Project- Walmart Retail Data Analysis - 
   <a href="https://github.com/Sekharpadhi/Walmart-Analysis-Project-" target="_blank">
-    <img src="![images](https://github.com/user-attachments/assets/cc65e5a4-3a77-42ea-8e8e-f58ae1e409e3)" height="25" alt="walmart"  />
+    <img src="https://private-user-images.githubusercontent.com/138234191/399480907-14d92f81-3908-4aee-8eae-da0a57566d60.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU2NTMwODUsIm5iZiI6MTczNTY1Mjc4NSwicGF0aCI6Ii8xMzgyMzQxOTEvMzk5NDgwOTA3LTE0ZDkyZjgxLTM5MDgtNGFlZS04ZWFlLWRhMGE1NzU2NmQ2MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIzMVQxMzQ2MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTY5NzAyYzYxNDkyM2E3ZGUwYjBlZDIzYWE4NzVlNmM4N2QwNWMxNjU0ZWIwYWFlN2NkMjczNmU4NGFkNmNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.YtQ2UuKW6lrENyhZc5WT20nnj6-yfeDl7FDuKiSV5F0" height="25" alt="walmart"  />
     </h2> 
 
   </a>
