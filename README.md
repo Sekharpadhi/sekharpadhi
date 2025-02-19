@@ -36,13 +36,13 @@
   </a>
   <h2> Project- Jomato Database Management and Analysis - 
   <a href="https://github.com/Sekharpadhi/jomato-Data-analysis" target="_blank">
-    <img src="https://raw.githubusercontent.com/Sekharpadhi/jomato-Data-analysis/refs/heads/main/images%20(1).png" height="30" alt="jomato"  />
+    <img src="https://raw.githubusercontent.com/Sekharpadhi/jomato-Data-analysis/refs/heads/main/images%20(1).png" height="38" alt="jomato"  />
     </h2> 
  
   </a>
   <h2> Project- Analyzing the trends of covid-19  - 
   <a href="https://github.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-" target="_blank">
-    <img src="https://raw.githubusercontent.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-/refs/heads/main/images%20(2).png" height="35" alt="covid-19"  />
+    <img src="https://raw.githubusercontent.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-/refs/heads/main/images%20(2).png" height="39" alt="covid-19"  />
     </h2> 
  </a>
  <h2> Project- Pneumonia-Detection-using-Deep-Learning 
