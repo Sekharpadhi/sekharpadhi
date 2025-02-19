@@ -44,7 +44,11 @@
   <a href="https://github.com/Sekharpadhi/Analyzing-the-trends-of-covid-19-" target="_blank">
     <img src="https://private-user-images.githubusercontent.com/138234191/399480732-083a89ea-d115-42e8-9f1f-2eebbabad96d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU2NTMwMDgsIm5iZiI6MTczNTY1MjcwOCwicGF0aCI6Ii8xMzgyMzQxOTEvMzk5NDgwNzMyLTA4M2E4OWVhLWQxMTUtNDJlOC05ZjFmLTJlZWJiYWJhZDk2ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIzMVQxMzQ1MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjMwYzQ1MGVhZTZhMjg3NDAyMGFiZjYzYmNmNzk4ZjVhY2MzNDg0NGI0NWI1OWM3MTUwYWIyYjRjZjk0ODRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RdqZGSoCVsBPIPZzLMnhKtDVSQmWWWLjeAjetKiIjjg" height="35" alt="covid-19"  />
     </h2> 
-    
+ </a>
+ <h2> Project- Pneumonia-Detection-using-Deep-Learning 
+  <a href="https://github.com/Sekharpadhi/Pneumonia-Detection-using-Deep-Learning" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sekharpadhi/Pneumonia-Detection-using-Deep-Learning/refs/heads/main/images%20(3).png" height="35" alt="Pneumonia"  />
+    </h2>
   </a>
 </div>
 
