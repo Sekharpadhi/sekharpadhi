@@ -47,7 +47,7 @@
  </a>
  <h2> Project- Pneumonia-Detection-using-Deep-Learning 
   <a href="https://github.com/Sekharpadhi/Pneumonia-Detection-using-Deep-Learning" target="_blank">
-    <img src="https://raw.githubusercontent.com/Sekharpadhi/Pneumonia-Detection-using-Deep-Learning/refs/heads/main/images%20(3).png" height="35" alt="Pneumonia"  />
+    <img src="https://raw.githubusercontent.com/Sekharpadhi/Pneumonia-Detection-using-Deep-Learning/refs/heads/main/images%20(3).png" height="45" alt="Pneumonia"  />
     </h2>
   </a>
 </div>
