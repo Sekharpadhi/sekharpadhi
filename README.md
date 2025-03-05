@@ -34,7 +34,7 @@
     </h2> 
 
   </a>
-  <h2> Project- Jomato Database Management and Analysis - 
+  <h2> Project- Zomato Database Management and Analysis - 
   <a href="https://github.com/Sekharpadhi/jomato-Data-analysis" target="_blank">
     <img src="https://raw.githubusercontent.com/Sekharpadhi/jomato-Data-analysis/refs/heads/main/images%20(1).png" height="38" alt="jomato"  />
     </h2> 
