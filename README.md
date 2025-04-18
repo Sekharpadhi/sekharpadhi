@@ -55,7 +55,11 @@
     <img src="https://raw.githubusercontent.com/Sekharpadhi/Telco-Customer-Churn-Prediction/refs/heads/main/images%20(5).png" height="45" alt="CC"  />
     </h2>
   </a>
-    
+      <h2> Project- Project-Ecommerce-sales-using-power-bi
+  <a href="https://github.com/Sekharpadhi/Project-Ecommerce-sales-using-power-bi/tree/main" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sekharpadhi/Project-Ecommerce-sales-using-power-bi/refs/heads/main/ecommerce-logo-design_624194-152.avif" height="45" alt="CC"  />
+    </h2>
+  </a>
 </div>
 
 ###
